@@ -1,2 +1,3 @@
-# hyper-recommendation-engine-cvmp
-Automated issue comment bot repository
+# Hyper Recommendation Engine Cvmp
+
+Automated issue comment bot repository.
